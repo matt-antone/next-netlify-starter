@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 html,
 body {
   padding: 0;
@@ -10,7 +14,7 @@ body {
   box-sizing: border-box;
 }
 
-main {
+/* main {
   padding: 5rem 0;
   flex: 1;
   display: flex;
@@ -32,4 +36,4 @@ code {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-}
+} */
